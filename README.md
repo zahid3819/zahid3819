@@ -17,12 +17,12 @@
 ## 🧠 About Me
 
 I am a **modern full-stack web developer** with a strong focus on **frontend excellence, smooth animations, and scalable backend systems**.  
-I love transforming ideas into **clean, fast, and visually refined digital products**.
+I enjoy turning complex ideas into **clean, fast, and visually polished products**.
 
 - 💎 Frontend-first mindset with full-stack strength  
 - 🎨 Motion-driven UI using **Framer Motion**  
 - 🚀 MERN & **Next.js** application architecture  
-- 🎯 Clean code, performance & UX obsessed  
+- 🎯 Clean code, performance & UX focused  
 - 🌍 Open to **remote, freelance & startup roles**
 
 ---
@@ -36,7 +36,7 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 
 ### 🎞 Motion & UI
 <p>
-  <img height="48" src="https://raw.githubusercontent.com/framer/motion/main/.github/logo.png" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 ### ⚙ Backend & Database
@@ -49,10 +49,10 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 ## 🚀 What I Build
 
 ✔ Pixel-perfect & responsive user interfaces  
-✔ High-performance **React & Next.js** apps  
-✔ API-driven systems with **Node.js**  
+✔ High-performance **React & Next.js** applications  
+✔ API-driven systems using **Node.js**  
 ✔ Smooth animations & micro-interactions  
-✔ Scalable, maintainable production-ready code  
+✔ Scalable, maintainable, production-ready code  
 
 ---
 
@@ -63,7 +63,7 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 - **Real Estate Rental Platform** – Multi-role MERN system  
 - **Admin Dashboards** – Analytics, role & content management  
 
-> 🔗 *More projects available in my repositories*
+> 🔗 More projects available in my repositories
 
 ---
 
@@ -82,13 +82,13 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/zahid3819" target="_blank">
+  <a href="https://github.com/zahid3819">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:inbox.zahidhussain@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="http://linkedin.com/in/m-zahid-hussain/" target="_blank">
+  <a href="http://linkedin.com/in/m-zahid-hussain/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -98,4 +98,5 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 <p align="center">
   ⚡ “Code with clarity. Design with intent. Build with purpose.”
 </p>
+
 
