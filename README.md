@@ -82,13 +82,13 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/zahid3819">
+  <a href="https://github.com/zahid3819" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:inbox.zahidhussain@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="http://linkedin.com/in/m-zahid-hussain/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -98,3 +98,4 @@ I love transforming ideas into **clean, fast, and visually refined digital produ
 <p align="center">
   ⚡ “Code with clarity. Design with intent. Build with purpose.”
 </p>
+
