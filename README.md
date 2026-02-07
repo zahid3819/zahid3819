@@ -67,18 +67,6 @@ I enjoy turning complex ideas into **clean, fast, and visually polished products
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahid3819&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahid3819&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
