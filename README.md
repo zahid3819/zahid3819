@@ -98,5 +98,3 @@ I enjoy turning complex ideas into **clean, fast, and visually polished products
 <p align="center">
   ⚡ “Code with clarity. Design with intent. Build with purpose.”
 </p>
-
-
