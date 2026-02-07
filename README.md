@@ -1,12 +1,8 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Muhammad Zahid Hussain</h1>
 <h3 align="center">
-  MERN Stack Developer · Frontend Engineer · Motion UI Specialist
+  Next.js Developer · Frontend Engineer · Motion UI Specialist
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahid3819&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   Building premium, scalable & high-performance web experiences
