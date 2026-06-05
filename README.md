@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Muhammad Zahid Hussain</h1>
 <h3 align="center">
-  Next.js Developer · Frontend Engineer · Motion UI Specialist
+  Software Engineer - ReactJs/Next.js
 </h3>
 
 <p align="center">
